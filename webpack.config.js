@@ -8,7 +8,7 @@ var HTMLWebpackPluginConfig = new HtmlWebpackPlugin({
 
 module.exports = {
     entry: [
-        './app/app.js'
+        './app/index.js'
     ],
     module: {
         loaders:[
